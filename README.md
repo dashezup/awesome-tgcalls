@@ -17,6 +17,12 @@ Feel free to improve this list by [contributing](CONTRIBUTING.md).
 
 - [MarshalX/tgcalls](https://github.com/MarshalX/tgcalls) - A python library for playing music in voice chats. Supports recording, multiply chats, volume control, pause/resume, mute/unmute, speaking status.
 
+## Bot Projects
+
+- [callsmusic/callsmusic](https://github.com/callsmusic/callsmusic) - A Voice Chat Userbot with queue and multiple chats support.
+- [callsmusic/tgvc-userbot](https://github.com/callsmusic/tgvc-userbot) - A Voice Chat UserBot with playlist and Heroku support.
+- [callsmusic/vcpb](https://github.com/callsmusic/vcpb) - The first voice chat-related Telegram bot to be open-sourced, uses MPV and has queue, stream and YouTube support.
+
 ## Chats
 
 - [@vcradio](https://t.me/vcradio) - A demo chat with radio station "Europa Plus TV".
